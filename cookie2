@@ -5,49 +5,49 @@
             "httpOnly": false,
             "name": "hl",
             "value": "tr",
-            "path": "/",
+            "path": "\/",
             "domain": "www.yemeksepeti.com"
         },
         {
             "httpOnly": false,
             "name": "device_token",
-            "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZvbG8teXMtdHIiLCJ0eXAiOiJKV1QifQ.eyJpZCI6Im90cGdvcG42MmlieTQyaWR1eHpkdHU5ZjNnY3d4cHNienl1dWd1MzkiLCJjbGllbnRfaWQiOiJ2b2xvIiwidXNlcl9pZCI6InRyNTJrZWZiIiwiZXhwaXJlcyI6MTY4MTY4Mjg1NywidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjoiQVBJX0NVU1RPTUVSIEFQSV9SRUdJU1RFUkVEX0NVU1RPTUVSIn0.F_70Tvc76hIAakGrEXaapSAXvowE-lb9dNrxbIGWAgBtR_wWhAhqcgDsHYsVIErW18dhqfD9DIHVhCQ85OhqNCHYOyc8PCkQmreJNMGFDsijpNNJh6hDOncQxOt9yLMQ73zyl05fkYPTK3FFDSO9aV3dq6GazJ8Tt9R-VREmFwIL7xJyLPfhXOwsQWFSRMdvkIf20Z37j_e6LMVnPILyBByjaM8eshjXwKVjvTbuSYBiteA3EEXVXXBiNMHIB7OL1flnomcOjNJHG2RwGclyGgZkzQA5KRxckiN0Ym7BnmGpoQu4t0Nphu9PBZUb05jW-LlTs3QLwOXwl7hQUSBACg",
-            "path": "/",
+            "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZvbG8teXMtdHIiLCJ0eXAiOiJKV1QifQ.eyJpZCI6InVocTBwYjN2MHpsNHJlZXhoNGFobDZwZWE2d3NxNnE2NDZnbnQxdDYiLCJjbGllbnRfaWQiOiJ2b2xvIiwidXNlcl9pZCI6InRyNTJrZWZiIiwiZXhwaXJlcyI6MTY4MTY4MzA5OCwidG9rZW5fdHlwZSI6ImJlYXJlciIsInNjb3BlIjoiQVBJX0NVU1RPTUVSIEFQSV9SRUdJU1RFUkVEX0NVU1RPTUVSIn0.bXB0TmKOxnHI_e9LVqsefuhQ0EbeX9I6ud1Mw7Tm4Wb3VkVJLb0V6pcVZ5AZMX1E5iUNweM2ylZ_Dn-dQeG0t8b_jCbvJkhzMbPn35p-u1zFmCk03EHRN5CgRN8D-62c6thadHJfS0jZ-mAp01wpElCg1lqE2cLOWSNxiZ2vFuVLO4MF3ORmK6kIEAX_rL7qiKy-zxpvkM9BZTPUsHMZ8l6V6haR2AeFbhJSAgyW7L4AILFzaRPTZqWwGbrSJR6Ch6Dl96luOKe5qXq0LCwu1XVTrWbs82CUSFvsAdUt-gV6a0TdoRQDuO2Mzzv1l-ZXJlaUjMwddPszLrCKQmBz4w",
+            "path": "\/",
             "domain": "www.yemeksepeti.com"
         },
         {
             "httpOnly": false,
             "name": "device_token",
-            "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZvbG8tZGV2aWNlLXlzLXRyIiwidHlwIjoiSldUIn0.eyJpZCI6IjU1Yzc5ZDc2LTFkYzEtNGM2NS1hMWQ0LTNlODQ3MjM2YmIwYyIsImNsaWVudF9pZCI6InZvbG8iLCJ1c2VyX2lkIjoidHI1MmtlZmIiLCJleHBpcmVzIjo0ODM1Mjc5MjU3LCJ0b2tlbl90eXBlIjoiYmVhcmVyIiwic2NvcGUiOiJERVZJQ0VfVE9LRU4ifQ.Y7I-uj_3BIJ7vpzjA4cK2ldzdVTZpx-_zfan6dFWMer59sjW0jWEHjKg7zZJlg_yZfgKzkmwf3LPZPinOB3a3ctRZ_x3H79xX5jLf_dN3oxzWxcZ04ysOHr7xSoWjG51JnxHKAFHV2mi1R98bOrP-2ZRannxiU-wDa9cANFMiHNy3rRU47zJ5Rjrla5x_PCHQclHDGxrr_MerCO0ufidYIxYbHE9GktQe9NhGvfqp7zX09d2XteWfVHa-zrFR-F5IpVkiGFZa0mttUQfor09E39gqgg1SyPxoSim-t5JZikQEZej8uLo62bZriOrrU0IR8-cO9bM5jagBNc9amO1Vg",
-            "path": "/",
+            "value": "eyJhbGciOiJSUzI1NiIsImtpZCI6ImtleW1ha2VyLXZvbG8tZGV2aWNlLXlzLXRyIiwidHlwIjoiSldUIn0.eyJpZCI6ImUzMTk1OGE1LTA0MGQtNGQzMS04ZDI4LThlYjFhMDUxMTlkNSIsImNsaWVudF9pZCI6InZvbG8iLCJ1c2VyX2lkIjoidHI1MmtlZmIiLCJleHBpcmVzIjo0ODM1Mjc5NDk4LCJ0b2tlbl90eXBlIjoiYmVhcmVyIiwic2NvcGUiOiJERVZJQ0VfVE9LRU4ifQ.DmDYh1SMYQIuoQVnuOVymoX-qOEbkaBYGLtp_B90th4b-frbMBgDnQe1EfAK1tW7gv5Ra_SJYQrUmr98L1SwZ8Vupd7TCGuIhu7N9ho9lUAKBql3SnPhSPRFIyBJsU3LUZ7wuht1trcchdsSJyR0OXAJUQCspl525erCxgR373QfAs1t1_rypag5zu4ADPcGxJP5XU_o9YU-ZiRNPChN4MFxFs59FcAFKTsr75ghD3DBrZavE0GhrSEB8e-9i4m_DJC9wFhvSV_-oIUZfOtgxKWXFFOCyzfe2CAZm9Proqh5c-LWEkgr3iihyF-TfeO4wzDGQKR2QLXnHzB3HHJ0Hw",
+            "path": "\/",
             "domain": "www.yemeksepeti.com"
         },
         {
             "httpOnly": false,
             "name": "refresh_token",
-            "value": "tl7i13dnndj9yn335840h0jz19hg4k97yps7haza",
-            "path": "/",
+            "value": "k87yiuqhmbp330v8s49mt96vhxr348ih5fsphxk9",
+            "path": "\/",
             "domain": "www.yemeksepeti.com"
         },
         {
             "httpOnly": false,
             "name": "userSource",
             "value": "volo",
-            "path": "/",
+            "path": "\/",
             "domain": "www.yemeksepeti.com"
         },
         {
             "httpOnly": false,
             "name": "_pxhd",
-            "value": "WHxxAXKbGpT-SO9WOimHkRptYGWLhyGTnbiR4r/TuR14DxK0kZP12AT9iL1dVRhM9x1Rv4pHS7pXOT5wKcybdQ==:Lm/s837Ms5EdaAY60qHlPj/pJTsdibUMWL-Mq3JuZpCAMuqwkeEPLcgQPQpThtKlbGOwEDqh7tYO49HeMRWz5khtlb5e-uYd6n8Uch6rtsnq1OK3Qwc/jkx0Cac1yvhC",
-            "path": "/",
+            "value": "u74lVTzAkouOygm35EALbTzYFxFtcS-AbMBBztdFLhczXCIga6KJHHWEwzviTvzG7n5dzKTJX1tqMV3KEIfBaQ==:wXMIg2nkRSyRJpOemWVLTzYnK5aNLZPiP5v79Za/HCAVN/W1LD3pvPZiPiviIi2uemr7vylDgX3BXqrx9Xq7/o/HfAeUFJDr0NYfBby8f7K0-9kk5RQiSYt9rcOAed5X",
+            "path": "\/",
             "domain": "www.yemeksepeti.com"
         },
         {
             "httpOnly": false,
             "name": "__cf_bm",
-            "value": "re6UyLEqt9qaZVHQ8H7pNDUxxE.UCxgLqEzgpBeyTus-1681679257-0-AZD/2EfuzVq+G4G5tVzREukhW1GwQhaI00Nu8lx1CRamYf21oT3voR+1Jfa3pYkvEQqMnyOOAe3mHyKqrBtn7xA=",
-            "path": "/",
+            "value": "t7Eewa4Wd6Nf44g5NV8XL1DiklU9S2f75NZNP2rSWtg-1681679498-0-AYEL2eeg8UwBLFbJ7J3X8RjO7UlcjzrgZ6VIVMZjGSzbz1j6puMY9lL/pUeqKqwXLPMI1gqEKcv3OvoaISBjYTk=",
+            "path": "\/",
             "domain": "www.yemeksepeti.com"
         }
     ]
